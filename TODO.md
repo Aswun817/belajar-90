@@ -1,0 +1,4 @@
+- [x] Create index.html with 3 sections, each containing a cat tail animation div and an editable paragraph
+- [x] Create style.css to set background to kucing.png, style paragraphs, and animate the cat tail
+- [x] Create script.js to handle navigation between paragraphs with fade animations
+- [x] Test the website by opening index.html
